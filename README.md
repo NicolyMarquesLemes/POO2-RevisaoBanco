@@ -1,6 +1,6 @@
 Informações para conexão com banco:
-O tipo de banco usado é SGDB, o driver é (com.mysql.jdbc.Driver), o url é (jdbc:mysql://localhost:3306/bancorevisao), o username é root,
-o password é root, o nome do banco de dados é (revisaoBanco).
+O tipo de banco usado é (SGDB), o driver é (com.mysql.jdbc.Driver), o url é (jdbc:mysql://localhost:3306/bancorevisao), o username é (root),
+o password é (root), o nome do banco de dados é (revisaoBanco).
 
 Imagem quando a conexão da certo: 
 <img width="402" height="333" alt="foto correta" src="https://github.com/user-attachments/assets/fd16a2f2-79b1-42ac-b5e5-0be1ef8f83cd" />
